@@ -1,10 +1,10 @@
 import './App.css';
-import Header from './Header';
-import Footer from './Footer';
-import Employees from './Employees';
-import GroupedTeamMembers from './GroupedTeamMembers';
-import Nav from './Nav';
-import NotFound from './NotFound';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Employees from './components/Employees';
+import GroupedTeamMembers from './components/GroupedTeamMembers';
+import Nav from './components/Nav';
+import NotFound from './components/NotFound';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { DataProvider } from './context/DataContext';
 

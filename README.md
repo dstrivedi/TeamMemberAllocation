@@ -7,8 +7,7 @@
     Team member allocation app using React & JavaScript
   </h1>
 
-    <p><font size="3">
-      This is a Team Member Allocation App built using React and JavaScript. It allows you to efficiently allocate and deallocate 12 members among 4 teams: Team A, Team B, Team C, and Team D. </p>
+    <p><font size="3">This is a Team Member Allocation App built using React and JavaScript. It allows you to efficiently allocate and deallocate 12 members among 4 teams: Team A, Team B, Team C, and Team D. </p>
 
 # Features
 * Double-click on a member to allocate them to a specific team.

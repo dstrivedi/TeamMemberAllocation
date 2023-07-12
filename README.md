@@ -19,3 +19,15 @@
 
 # Clikc on the below link to review the code
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-2rzfnr)
+
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
+
+# Installation
+1. Clone the repository: git clone <repository-url>
+2. Navigate to the project directory: cd team-member-allocation-app
+3. Install dependencies: npm install
+
+# Usage
+1. Start the development server: npm start
+2. Open the app in your browser: http://localhost:3000

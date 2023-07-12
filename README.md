@@ -14,7 +14,7 @@
 * Double-click on an allocated member to deallocate them from the team.
 * Easily view all teams and their respective members by clicking on the "Teams" option in the navigation bar.
  
-<strong><em>Take a look at the app version here:</em></strong> https://stackblitz.com/edit/vitejs-vite-2rzfn :octocat: :heart_eyes:
+<strong><em>Take a look at the app version here:</em></strong>(https://stackblitz.com/edit/vitejs-vite-2rzfnr) :octocat: :heart_eyes:
 
 
 # Clikc on below link to review the code

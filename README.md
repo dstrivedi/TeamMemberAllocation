@@ -24,7 +24,7 @@
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
 
 # Installation
-1. Clone the repository: git clone [<repository-url>]
+1. Clone the repository: git clone repository-url
 2. Navigate to the project directory: cd team-member-allocation-app
 3. Install dependencies: npm install
 
